@@ -1,5 +1,9 @@
 # Diabetes Predictor: interactive web app
 
+**Live demo:** https://diabetes-predictor-jwjc.onrender.com
+
+(The free server sleeps when idle, so the first load can take 30–60 seconds.)
+
 Uses your trained model (`Mymdoel.pkl`) behind a FastAPI backend with a live, slider-based frontend.
 
 ```
